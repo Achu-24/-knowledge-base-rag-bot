@@ -1,0 +1,33 @@
+Retrieval-Augmented Generation (RAG)
+
+Retrieval-Augmented Generation, commonly called RAG,
+is a technique that combines information retrieval
+with large language models.
+
+RAG helps AI systems answer questions using external
+documents instead of relying only on information
+learned during model training.
+
+The RAG process has five main steps:
+
+1. Document Loading:
+Documents such as PDFs and text files are loaded.
+
+2. Text Splitting:
+Large documents are divided into smaller chunks.
+
+3. Embedding:
+Each chunk is converted into a numerical vector.
+
+4. Retrieval:
+Relevant chunks are retrieved based on the user's question.
+
+5. Generation:
+The language model uses the retrieved information
+to generate an answer.
+
+A vector database stores embeddings and helps retrieve
+semantically similar information.
+
+RAG can reduce hallucinations by grounding answers
+in retrieved documents.

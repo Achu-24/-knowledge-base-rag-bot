@@ -1,0 +1,18 @@
+Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is a branch of computer science
+that focuses on creating machines capable of performing tasks
+that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data and improve
+their performance without being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses
+neural networks with multiple layers.
+
+Natural Language Processing (NLP) enables computers to
+understand, interpret, and generate human language.
+
+Computer Vision enables machines to analyze and understand
+images and videos.
