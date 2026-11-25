@@ -63,3 +63,6 @@ Six test cases covering basic facts, retrieval, unanswerable questions, and tric
 
 The application uses the visitor-provided Gemini API key for API requests. The key is not intentionally saved to a file or committed to the repository.
 
+Deployment link: https://ehb8if8w6w2fsnahwxobku.streamlit.app/
+
+Repository Link: https://github.com/Achu-24/-knowledge-base-rag-bot
